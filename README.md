@@ -50,7 +50,7 @@ src/
 ├── Core/                 # Domain entities and interfaces
 ├── Application/         # Application business rules
 ├── Infrastructure/      # External concerns implementation
-└── Presentation/        # API endpoints and controllers
+└── API/        # API endpoints and controllers
 ```
 
 ## 🎯 Benefits
