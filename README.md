@@ -1,4 +1,4 @@
-# 🧅 Onion Architecture Example
+#  Onion Architecture Example
 
 ## 📋 Overview
 This project demonstrates the implementation of Onion Architecture in a .NET application. The architecture promotes a clean separation of concerns and dependency inversion principles.
