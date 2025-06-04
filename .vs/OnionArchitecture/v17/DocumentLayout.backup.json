@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\Onion Architecture example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B30037-9ED9-47D0-865C-905251714D69}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|d:\\iti\\onion architecture example\\onionarchitecture.infrastructure\\onionarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5B30037-9ED9-47D0-865C-905251714D69}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|solutionrelative:onionarchitecture.infrastructure\\onionarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADC3712-385E-4088-9D50-45F03158B8CF}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|d:\\iti\\onion architecture example\\onionarchitecture.application\\onionarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AADC3712-385E-4088-9D50-45F03158B8CF}|OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:onionarchitecture.application\\onionarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65492F1-16F7-46F1-A743-0A2042B73E6B}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|d:\\iti\\onion architecture example\\onionarchitecture.domain\\onionarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D65492F1-16F7-46F1-A743-0A2042B73E6B}|OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:onionarchitecture.domain\\onionarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E27CC-ECD4-4156-A546-1DE2FE497C0E}|OnionArchitecture.API\\OnionArchitecture.API.csproj|d:\\iti\\onion architecture example\\onionarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949E27CC-ECD4-4156-A546-1DE2FE497C0E}|OnionArchitecture.API\\OnionArchitecture.API.csproj|solutionrelative:onionarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E27CC-ECD4-4156-A546-1DE2FE497C0E}|OnionArchitecture.API\\OnionArchitecture.API.csproj|d:\\iti\\onion architecture example\\onionarchitecture.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{949E27CC-ECD4-4156-A546-1DE2FE497C0E}|OnionArchitecture.API\\OnionArchitecture.API.csproj|solutionrelative:onionarchitecture.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949E27CC-ECD4-4156-A546-1DE2FE497C0E}|OnionArchitecture.API\\OnionArchitecture.API.csproj|d:\\iti\\onion architecture example\\onionarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{949E27CC-ECD4-4156-A546-1DE2FE497C0E}|OnionArchitecture.API\\OnionArchitecture.API.csproj|solutionrelative:onionarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B30037-9ED9-47D0-865C-905251714D69}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|d:\\iti\\onion architecture example\\onionarchitecture.infrastructure\\migrations\\20250603172858_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B30037-9ED9-47D0-865C-905251714D69}|OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj|solutionrelative:onionarchitecture.infrastructure\\migrations\\20250603172858_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OnionArchitecture.Domain",
+              "DocumentMoniker": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "ToolTip": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "RelativeToolTip": "OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T17:43:41.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnionArchitecture.Application",
+              "DocumentMoniker": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+              "RelativeDocumentMoniker": "OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+              "ToolTip": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+              "RelativeToolTip": "OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T17:43:39.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.API\\Program.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.API\\Program.cs",
+              "ToolTip": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.API\\Program.cs",
+              "RelativeToolTip": "OnionArchitecture.API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:39:33.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnionArchitecture.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj",
+              "ToolTip": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj",
+              "RelativeToolTip": "OnionArchitecture.Infrastructure\\OnionArchitecture.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T17:23:51.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OnionArchitecture.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OnionArchitecture.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T17:38:40.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OnionArchitecture.API\\appsettings.json",
+              "ToolTip": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.API\\appsettings.json",
+              "RelativeToolTip": "OnionArchitecture.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T17:38:33.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250603172858_v1.cs",
+              "DocumentMoniker": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Infrastructure\\Migrations\\20250603172858_v1.cs",
+              "RelativeDocumentMoniker": "OnionArchitecture.Infrastructure\\Migrations\\20250603172858_v1.cs",
+              "ToolTip": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Infrastructure\\Migrations\\20250603172858_v1.cs",
+              "RelativeToolTip": "OnionArchitecture.Infrastructure\\Migrations\\20250603172858_v1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:28:59.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

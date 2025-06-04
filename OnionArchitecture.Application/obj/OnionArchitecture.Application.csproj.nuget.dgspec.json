@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+        "projectName": "OnionArchitecture.Application",
+        "projectPath": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+        "packagesPath": "C:\\Users\\SoftLaptop\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SoftLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj": {
+                "projectPath": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+        "projectName": "OnionArchitecture.Domain",
+        "projectPath": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\SoftLaptop\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Onion Architecture example\\OnionArchitecture.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SoftLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

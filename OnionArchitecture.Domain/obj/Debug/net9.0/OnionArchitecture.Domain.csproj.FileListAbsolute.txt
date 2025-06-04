@@ -1,0 +1,12 @@
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\bin\Debug\net9.0\OnionArchitecture.Domain.deps.json
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\bin\Debug\net9.0\OnionArchitecture.Domain.dll
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\bin\Debug\net9.0\OnionArchitecture.Domain.pdb
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\OnionArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\OnionArchitecture.Domain.AssemblyInfoInputs.cache
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\OnionArchitecture.Domain.AssemblyInfo.cs
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\OnionArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\OnionArchitecture.Domain.dll
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\refint\OnionArchitecture.Domain.dll
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\OnionArchitecture.Domain.pdb
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\ref\OnionArchitecture.Domain.dll
+D:\ITI\Onion Architecture example\OnionArchitecture.Domain\obj\Debug\net9.0\OnionArchitecture.Domain.csproj.AssemblyReference.cache
