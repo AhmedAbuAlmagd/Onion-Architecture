@@ -46,40 +46,11 @@ This project demonstrates the implementation of Onion Architecture in a .NET app
 
 ## 📁 Project Structure
 ```
-SystemSolution/
-│
-├── System.API/                 --> 💻 Presentation Layer
-│   ├── Controllers/              --> API endpoints (EmployeeController, LeaveController, etc.)
-│   ├── Filters/                  --> Custom filters (e.g., Exception handling)
-│   ├── Middlewares/             --> Auth, logging, error-handling middlewares
-│   └── Program.cs / Startup.cs  --> App entry point & dependency injection
-│
-├── System.Application/         --> 📦 Application Layer (Use Cases)
-│   ├── Interfaces/               --> Service contracts (IEmployeeService, ILeaveService)
-│   ├── Services/                 --> Application logic that uses Domain + Infra
-│   ├── DTOs/                     --> Data Transfer Objects (EmployeeDto, LeaveDto)
-│   ├── Validators/               --> FluentValidation classes for DTOs
-│   └── Common/                   --> Shared helpers, constants, enums, etc.
-│
-├── HRSystem.Domain/              --> 🧠 Domain Layer (Core Business Rules)
-│   ├── Entities/                 --> Domain models (Employee, LeaveRequest, etc.)
-│   ├── ValueObjects/            --> Immutable objects (e.g., Email, Address)
-│   ├── Interfaces/              --> Abstractions (e.g., IEmployeeRepository)
-│   ├── Enums/                   --> Domain enums (LeaveType, Gender, etc.)
-│   └── Exceptions/              --> Domain-specific custom exceptions
-│
-├── HRSystem.Infrastructure/      --> 🏗️ Infrastructure Layer (DB, File, Email)
-│   ├── Persistence/              --> EF Core DbContext, Migrations
-│   │   ├── HrDbContext.cs        --> EF Core context (unit of work)
-│   │   ├── Migrations/           --> EF Core migrations
-│   │   └── SeedData.cs           --> Optional: Seed initial data
-│   ├── Repositories/            --> EF implementations (EmployeeRepository, etc.)
-│   ├── Services/                --> Infra services (EmailService, FileUploader)
-│   └── Configurations/         --> Fluent API entity configs (if needed)
-│
-│
-└── HRSystem.sln                  --> 🔗 Visual Studio solution file
-
+src/Add commentMore actions
+├── Core/                # Domain entities and interfaces
+├── Application/         # Application business rules
+├── Infrastructure/      # External concerns implementation
+└── API/                 # API endpoints and controllers
 ```
 
 ## 🎯 Benefits
